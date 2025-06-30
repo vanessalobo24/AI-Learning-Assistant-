@@ -4,7 +4,7 @@
 ## Summary  
 The AI Learning Assistant is an adaptive educational platform that personalizes learning experiences in real-time. By analyzing student interactions through natural language processing (NLP) and reinforcement learning algorithms, it dynamically adjusts content difficulty, recommends targeted resources (videos, quizzes, exercises), and provides customized feedback. The system solves key educational challenges including engagement gaps, accessibility limitations, and inefficient one-size-fits-all teaching approaches.
 
-# Background  
+## Background  
 **Problems solved:**  
 - **One-size-fits-all education**: Traditional systems fail to address individual learning gaps  
 - **Engagement**: Students lose interest when material is too easy/difficult  
