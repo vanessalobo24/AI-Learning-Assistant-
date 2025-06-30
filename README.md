@@ -1,7 +1,6 @@
+## Summary- 
 # AI-Learning-Assistant
 *project for the Building AI course*
-
-## Summary-
 An AI tool that adapts educational content in real-time based on a student’s learning pace, strengths, and weaknesses. It uses natural language processing (NLP) and reinforcement learning to recommend personalized resources, quizzes, and feedback.
 
 ## Background
